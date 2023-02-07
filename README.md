@@ -4,6 +4,9 @@
 
 ### Data Analytics Bootcamp @ Ironhack
 
+Note for Week 3 deliverables: Please refer to **Data Visualization.ipynb** file for a working and "clean" version of all produced code.
+https://github.com/germanortola/airbnb-bcn/blob/main/notebooks/Data%20Visualization.ipynb
+
 ##### First: Choosing a subject and asking questions
 
 The main goal of this project is to answer relevant questions about the current status of Airbnb accommodation in Barcelona, in the year 2022.
