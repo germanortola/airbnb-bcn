@@ -24,11 +24,17 @@ Once the data is ready, it is visualized to provide with insights to answer the 
 
 What was the current situation of Airbnb in Barcelona as for 2022?
 
+
 What is the price range?
+
 How many locations are in the city?
+
 How are these locations distributed?
+
 What do guests say about Airbnb in Barcelona?
+
 How much of the accommodation offer does Airbnb represent?
+
 
 
 
