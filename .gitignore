@@ -1,0 +1,9 @@
+Borrador Proyecto 2.ipynb
+data/*.csv
+data\*.csv
+data\*.gz
+data/*.gz
+notebooks\*.csv
+notebooks/*.csv
+notebooks\*.gz
+notebooks/*.gz
